@@ -1,0 +1,3 @@
+uapvHelpPlugin:
+  repo: git://github.com/UAPV/uapvHelpPlugin
+  path: plugins
